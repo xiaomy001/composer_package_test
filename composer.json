@@ -1,0 +1,13 @@
+{
+    "name": "hbg/practice",
+    "description": "a practice of create a composer package.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
